@@ -208,9 +208,13 @@
     <autogen>__KeyToKey__ KeyCode::7, ModifierFlag::FN, KeyCode::7, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L</autogen>
     <autogen>__KeyToKey__ KeyCode::8, ModifierFlag::FN, KeyCode::8, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L</autogen>
     <autogen>__KeyToKey__ KeyCode::9, ModifierFlag::FN, KeyCode::9, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L</autogen>
-    <autogen>__KeyToKey__ KeyCode::M, ModifierFlag::FN, KeyCode::0, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L</autogen>
-    <autogen>__KeyToKey__ KeyCode::COMMA, ModifierFlag::FN, KeyCode::CURSOR_LEFT, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
-    <autogen>__KeyToKey__ KeyCode::DOT, ModifierFlag::FN, KeyCode::CURSOR_RIGHT, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::9, ModifierFlag::FN, KeyCode::0, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::M, ModifierFlag::FN, KeyCode::1, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::COMMA, ModifierFlag::FN, KeyCode::2, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::DOT, ModifierFlag::FN, KeyCode::3, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::SLASH, ModifierFlag::FN, KeyCode::4, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::P, ModifierFlag::FN, KeyCode::CURSOR_LEFT, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
+    <autogen>__KeyToKey__ KeyCode::SEMICOLON, ModifierFlag::FN, KeyCode::CURSOR_RIGHT, ModifierFlag::CONTROL_L | ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L</autogen>
   </item>
 
   <item>
